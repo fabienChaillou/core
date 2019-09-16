@@ -1,14 +1,16 @@
 Bolt 4 - beta
 =============
 
-> Cleanse this world with flame  
-> End this, cleanse this  
-> **Rebuild and start again**  
-> Obliterate what makes us weak  
+*test*
+
+> Cleanse this world with flame
+> End this, cleanse this
+> **Rebuild and start again**
+> Obliterate what makes us weak
 
 -- Hatebreed - [Destroy Everything][hatebreed]
 
-Progress towards beta / stable 
+Progress towards beta / stable
 ------------------------------
 
 Follow the progress on Bolt 4, at the following locations
@@ -23,7 +25,7 @@ To set up a running environment of Bolt 4 please perform the following steps 1 t
 1 Install
 ---------
 
-If you want to check out Bolt, the `composer create project` is recommended. See here: 
+If you want to check out Bolt, the `composer create project` is recommended. See here:
 https://github.com/bolt/standard-project/ .
 This repository should be used to work _on_ Bolt. Not _with_ Bolt.
 
@@ -88,7 +90,7 @@ Alternatively, run `make db-reset`, on a UNIX-like system.
 4 Run the prototype
 -------------------
 
-  - Using the Symfony CLI tool, just run `symfony server:start`. 
+  - Using the Symfony CLI tool, just run `symfony server:start`.
 
   - Alternatively, run `bin/console server:start`
   (if running `bin/console server:start`does not work because you don't have the pcntl extension, run `bin/console server:run`)
